@@ -1,5 +1,5 @@
-📊 ** Customer Behavior Analysis – Data Analytics Project  **
-📌## Description  
+📊  Customer Behavior Analysis – Data Analytics Project  
+📌 Description  
 End-to-end data analytics project covering data loading, cleaning, SQL analysis, and interactive dashboard creation using Power BI. The goal is to uncover customer behavior insights to support data-driven decisions.  
 
 📁 ## Dataset  
@@ -16,18 +16,18 @@ Jupyter Notebook: Analysis environment
 🔍 Workflow  
 1️⃣ Data Loading (Python)
 Imported dataset with Pandas
-Inspected structure, data types & missing values
+Inspected structure, data types & missing values  
 
 2️⃣ Exploratory Data Analysis (EDA)
 Descriptive statistics
 Distribution & trend analysis
-Outlier detection
+Outlier detection  
 
 3️⃣ Data Cleaning
 Treated missing values
 Removed duplicates
 Fixed inconsistent formats
-Prepared analysis-ready dataset
+Prepared analysis-ready dataset  
 
 4️⃣ SQL Analysis
 Performed in PostgreSQL for:
@@ -58,6 +58,7 @@ Run provided SQL queries (/sql folder)
 Open the Power BI file (.pbix) to explore the dashboard  
 
 <img width="1317" height="720" alt="image" src="https://github.com/user-attachments/assets/ab194d67-a086-4e02-84fb-026c03fcbf35" />
+
 
 
 
