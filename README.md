@@ -15,23 +15,23 @@ Power BI (Dashboard development)
 Jupyter Notebook (Development environment)
 
 🔍 Steps & Workflow
-1. Data Loading (Python) :
+1. Data Loading (Python)
 Imported the dataset using Pandas
 Inspected structure, data types, and missing values
 
-2. Exploratory Data Analysis (EDA) : 
+2. Exploratory Data Analysis (EDA)
 Descriptive statistics
 Distribution analysis
 Trend and pattern detection
 Outlier identification
 
-3. Data Cleaning :
+3. Data Cleaning
 Handled missing values
 Fixed inconsistent formats
 Removed duplicates
 Created clean, analysis-ready datasets
 
-4. SQL Analysis :
+4. SQL Analysis
 Loaded cleaned data into PostgreSQL Server
 Executed queries for:
   Customer segmentation
@@ -39,13 +39,13 @@ Executed queries for:
   Discount impact
   Time-based purchase trends.
 
-6. Power BI Dashboard :
+6. Power BI Dashboard
 Built an interactive dashboard with:
 Customer behavior trends
 Discount analysis
 Visual exploration of patterns
 
-📈 Results & Insights 
+📈 Results & Insights
 Identified customer behavior patterns
 Highlighted top-performing products
 Analyzed discount effectiveness
