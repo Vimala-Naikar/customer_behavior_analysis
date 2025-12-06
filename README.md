@@ -3,8 +3,8 @@
 End-to-end data analytics project covering data loading, cleaning, SQL analysis, and interactive dashboard creation using Power BI. The goal is to uncover customer behavior insights to support data-driven decisions.  
 
 📁 Dataset  
-Source: Provided CSV/Excel files
-Contains: Customer details, transactions, product info, purchase behavior
+Source: Provided CSV/Excel files  
+Contains: Customer details, transactions, product info, purchase behavior  
 Used for: EDA, SQL analysis, Power BI visualization  
 
 🛠 Tools & Technologies  
@@ -44,20 +44,20 @@ Discount analysis
 Purchase patterns
 
 📈 Results & Insights
-Identified key customer behavior trends
-Top product categories highlighted
-Measured discount effectiveness
-Detected seasonal & demographic patterns
-Provided actionable business recommendations
+Identified key customer behavior trends  
+Top product categories highlighted  
+Measured discount effectiveness  
+Detected seasonal & demographic patterns  
+Provided actionable business recommendations  
 
-▶️ How to Run
-
-Clone this repository
-Open the Jupyter notebooks and run them step-by-step
-Load cleaned tables into your PostgreSQL database
-Run provided SQL queries (/sql folder)
+▶️ How to Run  
+Clone this repository  
+Open the Jupyter notebooks and run them step-by-step  
+Load cleaned tables into your PostgreSQL database  
+Run provided SQL queries (/sql folder)  
 Open the Power BI file (.pbix) to explore the dashboard  
 
 <img width="1317" height="720" alt="image" src="https://github.com/user-attachments/assets/ab194d67-a086-4e02-84fb-026c03fcbf35" />
+
 
 
